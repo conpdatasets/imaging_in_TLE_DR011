@@ -178,6 +178,21 @@
           "value": "Canadian"
         }
       ]
+    }, {
+      "category": "registrationPage",
+      "values": [
+        {
+          "value": "https://www.braincode.ca/user/register"
+        }
+      ]
+    },
+    {
+      "category": "downloadOptions",
+      "values": [
+        {
+          "value": "offsite"
+        }
+      ]
     },
     {
       "category": "origin_institution",
